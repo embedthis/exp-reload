@@ -31,6 +31,7 @@
                 "from": "*.js.exp",
                 "to": "exp-reload"
             }
-        ]
+        ],
+        "origin": "embedthis/exp-reload"
     }
 }
